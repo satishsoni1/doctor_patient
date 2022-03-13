@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "685265659495",
+    "firebase_url": "https://goldsmith-63175.firebaseio.com",
+    "project_id": "goldsmith-63175",
+    "storage_bucket": "goldsmith-63175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685265659495:android:cef754d9433325e72496c2",
+        "android_client_info": {
+          "package_name": "com.template.doctorfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685265659495-nqe72v8gsr3nchcr1upg836s24v8388c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Bq_3ilgaGIDufAYetyuIkR9RfdOQzPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685265659495-nqe72v8gsr3nchcr1upg836s24v8388c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685265659495:android:246eae0d6c98b0fb",
+        "android_client_info": {
+          "package_name": "io.satish.goldsmith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685265659495-nqe72v8gsr3nchcr1upg836s24v8388c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Bq_3ilgaGIDufAYetyuIkR9RfdOQzPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685265659495-nqe72v8gsr3nchcr1upg836s24v8388c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
